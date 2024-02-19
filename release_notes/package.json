@@ -31,7 +31,6 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run lint:commit",
       "pre-commit": "npm run changelog && git add CHANGELOG.md"
     }
   }
