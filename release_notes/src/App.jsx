@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      Hola, mundo como estas?aaa bbb
+      test del changelog, vamos avanzando
     </div>
   )
 }
