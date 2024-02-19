@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      test del changelog, vamos avanzando
+      test del changelog, vamos avanzando, aaaaa
     </div>
   )
 }
