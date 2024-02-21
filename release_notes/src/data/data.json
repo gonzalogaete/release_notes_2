@@ -1,0 +1,24 @@
+{
+    "version": "1.0.0",
+    "title": "Release Notes",
+    "sidebarLinks": [
+        {
+            "title": "Version 1.0.0",
+            "url": "/release-notes/1.0.0"
+        },
+        {
+            "title": "Version 1.1.0",
+            "url": "/release-notes/1.1.0"
+        }
+    ],
+    "content": [
+        {
+            "section": "New Features",
+            "details": "Implementacion de release notes"
+        },
+        {
+            "section": "Bug Fixes",
+            "details": "Ahora podemos hacer seguimiento de bugs y versiones de forma visual."
+        }
+    ]
+}
